@@ -1,5 +1,5 @@
 ---
-title: "Convrting {qs} to {qs2} with rig"
+title: "Converting {qs} to {qs2} with rig"
 author: Benjamin L. Hlina
 date: "2026-09-25"
 output: rmarkdown::html_vignette
